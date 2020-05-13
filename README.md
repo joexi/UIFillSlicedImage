@@ -1,5 +1,5 @@
 # UIFillSlicedImage
-UGUI Component Support Both Filled And Sliced Simultaneously
+Unity UGUI Component Support Both Filled And Sliced Simultaneously
 
 # Support
 Sliced and FillAmount Image
